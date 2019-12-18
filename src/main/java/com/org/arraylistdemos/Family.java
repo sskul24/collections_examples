@@ -42,7 +42,7 @@ public class Family {
 	public void setAddress(String address) {
 		Address = address;
 	}
-	
+
 	
 	
 }
